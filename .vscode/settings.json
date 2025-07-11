@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "mygraph",
+        "objs",
+        "plotly",
+        "sinfo",
+        "stonks",
+        "yfinance"
+    ],
+    "python.formatting.provider": "black"
+}
